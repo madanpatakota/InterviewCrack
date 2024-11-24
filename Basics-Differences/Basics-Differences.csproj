@@ -3,12 +3,17 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Basics_Differences</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Mutable_ImMutablecs" />
+    <Compile Remove="Mutable_ImMutable.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Mutable_ImMutable.cs" />
   </ItemGroup>
 
 </Project>

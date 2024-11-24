@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace ExperienceCandidates
 {
-    internal class Virtual_Override
+    internal class Abstract_Override
     {
+
     }
 }
