@@ -1,0 +1,7 @@
+
+
+1. Prepare the video how to set the project
+                            set the Program file
+                            How to execute the Project
+                            How to put any entry point
+                            

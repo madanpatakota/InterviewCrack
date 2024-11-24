@@ -6,7 +6,5 @@ using System.Threading.Tasks;
 
 namespace ExperienceCandidates.GarbageCollection
 {
-    internal class VirtualvsOverride
-    {
-    }
+   
 }

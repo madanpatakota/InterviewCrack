@@ -6,7 +6,5 @@ using System.Threading.Tasks;
 
 namespace ExperienceCandidates.Modules
 {
-    internal class LowlevelModule
-    {
-    }
+
 }

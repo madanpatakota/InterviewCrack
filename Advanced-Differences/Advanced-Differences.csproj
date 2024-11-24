@@ -6,6 +6,7 @@
     <RootNamespace>Advanced_Differences</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>ExperienceCandidates.StaticConstructorNonStaticConstructorExampleProgram</StartupObject>
   </PropertyGroup>
 
 </Project>

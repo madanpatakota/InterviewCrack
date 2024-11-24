@@ -6,7 +6,4 @@ using System.Threading.Tasks;
 
 namespace ExperienceCandidates.OOPS
 {
-    internal class Abstraction
-    {
-    }
 }

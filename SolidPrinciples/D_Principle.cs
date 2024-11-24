@@ -6,7 +6,5 @@ using System.Threading.Tasks;
 
 namespace ExperienceCandidates.SolidPrinciples
 {
-    internal class S_Principle
-    {
-    }
+   
 }
